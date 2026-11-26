@@ -9,6 +9,31 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Montserrat&weight=600&size=23&pause=1000&color=2B90FF&width=650&lines=CSE+Undergrad+%40+SUST;Passionate+Full-Stack+Developer;Aspiring+Software+Engineer;Competitive+Programmer+(Pupil+%40+Codeforces);AI%2FML+Enthusiast" alt="Typing SVG" />
   </a>
+
+    <!-- Contact pills -->
+<p align="center">
+  <a href="mailto:autanu2025@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-autanu2025%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/autanudatta" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@autanudatta-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/autanudatta/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Autanu%20Datta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://codeforces.com/profile/Hare-053" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Hare--053-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://leetcode.com/u/Hare-053/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Hare--053-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://vjudge.net/user/AD_2022331053" target="_blank">
+    <img src="https://img.shields.io/badge/vJudge-AD__2022331053-0D9488?style=for-the-badge" alt="vJudge"/>
+  </a>
+  <a href="tel:+8801560038282" target="_blank">
+    <img src="https://img.shields.io/badge/Phone-+880%201560--038282-22C55E?style=for-the-badge&logo=telephone&logoColor=white" alt="Phone"/>
+  </a>
+</p>
 </div>
 
 <br/>
@@ -165,36 +190,6 @@ A **maternal & child health platform** built at DNA Hack for Health 2026 — con
 <br/>
 
 ---
-
-<!-- Socials & Coding Profiles -->
-## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="32"> <b>CONNECT & CODING PROFILES</b>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/autanudatta/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="36" />
-  </a>
-  <a href="https://github.com/autanudatta" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="36" />
-  </a>
-  <a href="mailto:autanu2025@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="36" />
-  </a>
-</p>
-
-<!-- Replace the href URLs below with your exact Codeforces and LeetCode profile links -->
-<p align="left">
-  <a href="https://codeforces.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-Pupil%20%7C%201000%2B%20Solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://leetcode.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.linkedin.com/in/autanudatta/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Autanu%20Datta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-</p>
-
-<br/>
 
 <!-- Technology Stack -->
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="32"> <b>TECHNOLOGY STACK</b>
