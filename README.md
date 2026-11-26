@@ -57,6 +57,49 @@
 
 ---
 
+## 🏆 Achievements
+
+<table align="center">
+  <thead>
+    <tr>
+      <th align="left">🏅 Achievement</th>
+      <th align="left">Event / Detail</th>
+      <th align="left">Track / Outcome</th>
+      <th align="center">Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🏅 <b>BUET CSE Fest — Top 20 Finalist</b></td>
+      <td>BUET CSE Fest 2026 · Team <b>SUST_DeployX</b></td>
+      <td>Microservices & DevOps · Built <b>Valerix</b></td>
+      <td align="center"><code>2026</code></td>
+    </tr>
+    <tr>
+      <td>🩺 <b>DNA Hack for Health — Onsite Finalist</b></td>
+      <td>DNA Hack for Health 2026 · MAG Osmani Medical College, Sylhet · Team <b>LifeLink</b></td>
+      <td>Maternal & Child Health · Built <b>MaCare</b></td>
+      <td align="center"><code>2026</code></td>
+    </tr>
+    <tr>
+      <td>🧩 <b>1,000+ Problems Solved</b></td>
+      <td>Codeforces (Pupil) · LeetCode · vJudge</td>
+      <td>DSA · Algorithms · Data Structures</td>
+      <td align="center"><code>—</code></td>
+    </tr>
+    <tr>
+      <td>⭐ <b>CGPA 3.91 / 4.00</b></td>
+      <td>Shahjalal University of Science and Technology (SUST)</td>
+      <td>CSE Undergraduate · Up to 3rd Year 1st Semester</td>
+      <td align="center"><code>2023 — Present</code></td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
