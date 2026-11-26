@@ -264,9 +264,12 @@ A **maternal & child health platform** built at DNA Hack for Health 2026 — con
 </div>
 
 ### 🐍 Contribution Snake
-<!-- Requires .github/workflows/snake.yml in autanudatta/autanudatta to generate the output branch -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/autanudatta/autanudatta/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/autanudatta/autanudatta/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/autanudatta/autanudatta/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/autanudatta/autanudatta/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 <br/>
