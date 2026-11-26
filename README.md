@@ -253,23 +253,9 @@ A **maternal & child health platform** built at DNA Hack for Health 2026 — con
   </table>
 </div>
 
-### 🔥 Streak & Repository Contributions
+### 🔥 GitHub Streak
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://streak-stats.demolab.com/?user=autanudatta&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-      </td>
-      <td align="center">
-        <img src="https://github-contributor-stats.vercel.app/api?username=autanudatta&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Contributor Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=autanudatta&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=autanudatta&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ### 📈 Contribution Activity Graph
