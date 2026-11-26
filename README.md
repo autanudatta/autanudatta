@@ -5,7 +5,6 @@
 
 <!-- Title & Dynamic Typing Subtitle -->
 <div align="center">
-  <h1>Hi 👋, I'm Autanu Datta</h1> 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Montserrat&weight=600&size=23&pause=1000&color=2B90FF&width=650&lines=CSE+Undergrad+%40+SUST;Passionate+Full-Stack+Developer;Aspiring+Software+Engineer;Competitive+Programmer+(Pupil+%40+Codeforces);AI%2FML+Enthusiast" alt="Typing SVG" /> <br/>
   </a> <br/>
@@ -29,15 +28,22 @@
 
 <br/>
 
+<div align="center">
+
+## Hi 👋, I'm Autanu Datta
+### Aspiring Software Engineer · Full-Stack Developer
+
+</div>
+
 <!-- About Me -->
 ### 👨‍💻 About Me
 
-- 🎓 **CSE Undergraduate at Shahjalal University of Science and Technology (SUST)** passionate about turning complex problems into clean, efficient, and maintainable code.
-- 🧩 **Competitive Programmer:** Solved **1,000+ algorithmic problems** across **Codeforces (Pupil)**, **LeetCode**, and **vJudge**, backed by strong fundamentals in **DSA, OOP, Database Systems, and Software Engineering**.
-- 💻 **Full-Stack Developer:** Experienced in building scalable web applications and REST APIs using the **MERN Stack** (**MongoDB, Express.js, React, Node.js**) alongside relational databases (**MySQL, PostgreSQL**).
-- 🚀 **Currently Exploring:** **Microservices architecture**, **Docker containerization**, **CI/CD pipelines**, and **AI/ML integration** to build smarter, data-driven applications.
-- 💼 **Open to Opportunities:** Actively seeking **Software Engineering internships or entry-level roles** where I can contribute to a high-performing engineering team.
-- ♟️ **Off the Clock:** Active **chess player** — honing strategic foresight, pattern recognition, and quick decision-making under pressure.
+- 🎓 **CSE Undergraduate @ SUST** focused on writing clean, scalable, and maintainable software.
+- 💻 **Full-Stack Developer:** Building production-ready web apps and REST APIs with the **MERN Stack** (**MongoDB, Express.js, React, Node.js**) and **MySQL / PostgreSQL**.
+- 🚀 **Currently Exploring:** Advanced **backend architecture** and **AI integration** to build intelligent, data-driven applications.
+- 🧩 **Problem Solver:** Solved **1,000+ DSA problems** across **Codeforces (Pupil)**, **LeetCode**, and **vJudge**.
+- 💼 **Open to Opportunities:** Seeking **Full-Stack, Backend, or Frontend Web Development** internships and entry-level roles.
+- ♟️ **Off the Clock:** Active **[chess player](https://www.chess.com/member/autanu_53)** — sharpening strategic thinking and decision-making under pressure.
 - 🌐 Connect with me on **[LinkedIn](https://www.linkedin.com/in/autanudatta/)** or reach out via **[Email](mailto:autanu2025@gmail.com)**.
 
 <br/>
@@ -307,7 +313,7 @@ A **maternal & child health platform** built at DNA Hack for Health 2026 — con
   <sub>
     Crafted with 💻 & ☕ by <a href="https://github.com/autanudatta"><b>Autanu Datta</b></a> ·
     Last updated: <code>November 2026</code> ·
-    🚀 Open to SWE Internships & Entry-Level Roles
+    🚀 Open to Web Development Internships & Entry-Level Roles
   </sub>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=autanudatta&label=Profile%20Views&color=0D9488&style=flat-square" alt="Profile Views" />
