@@ -10,7 +10,6 @@
     <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Montserrat&weight=600&size=23&pause=1000&color=2B90FF&width=650&lines=CSE+Undergrad+%40+SUST;Passionate+Full-Stack+Developer;Aspiring+Software+Engineer;Competitive+Programmer+(Pupil+%40+Codeforces);AI%2FML+Enthusiast" alt="Typing SVG" />
   </a>
 
-    <!-- Contact pills -->
 <p align="center">
   <a href="mailto:autanu2025@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-autanu2025%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -266,13 +265,16 @@ A **maternal & child health platform** built at DNA Hack for Health 2026 — con
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=autanudatta&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" width="100%" />
 </div>
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/autanudatta/autanudatta/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/autanudatta/autanudatta/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/autanudatta/autanudatta/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/autanudatta/autanudatta/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/autanudatta/autanudatta/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/autanudatta/autanudatta/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
 </div>
 
 <br/>
