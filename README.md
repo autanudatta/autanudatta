@@ -26,6 +26,35 @@
 
 <br/>
 
+<table align="center">
+  <tr>
+    <td width="55%" valign="top">
+
+### 🔭 Currently
+
+- 🤖 Exploring **AI/ML concepts** to build smarter, data-driven full-stack apps
+- 🐳 Learning **microservices**, **Docker** containerization & **CI/CD** pipelines
+- 💻 Building scalable **MERN & Next.js** web applications and REST APIs
+- 📚 Deepening **system design** for new-grad interviews
+- 🧩 Sharpening **DSA & system fundamentals** (**1,000+ problems** solved across Codeforces & LeetCode)
+
+  </td>
+  <td width="45%" valign="top">
+
+### 🌱 Open To
+
+- ✅ **Software Engineering internships** (Frontend / Backend / Full-Stack)
+- ✅ **Entry-level Software Engineer** roles
+- ✅ **Freelance** web & DevOps projects
+- ✅ **Hackathons** & collaborative AI / web development projects
+- ✅ **Open-source** contributions & tech networking
+
+  </td>
+  </tr>
+</table>
+
+<br/>
+
 <!-- Socials & Coding Profiles -->
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="32"> <b>CONNECT & CODING PROFILES</b>
 
