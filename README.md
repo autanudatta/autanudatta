@@ -1,7 +1,7 @@
 <!-- Header Banner -->
-<div align="center">
-  <img src="./github_banner.jpeg" alt="Autanu Datta Banner" width="100%" />
-</div>
+<p align="center">
+  <img src="./github_banner.jfif" alt="Autanu Datta — Full Stack Web Developer" width="100%" />
+</p>
 
 <!-- Title & Dynamic Typing Subtitle -->
 <div align="center">
