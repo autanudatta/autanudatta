@@ -6,13 +6,16 @@
 <!-- Title & Dynamic Typing Subtitle -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Montserrat&weight=600&size=23&pause=1000&color=2B90FF&width=650&lines=CSE+Undergrad+%40+SUST;Passionate+Full-Stack+Developer;Aspiring+Software+Engineer;Competitive+Programmer+(Pupil+%40+Codeforces);AI%2FML+Enthusiast" alt="Typing SVG" /> <br/>
-  </a> <br/>
+    <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Montserrat&weight=600&size=23&pause=1000&color=38BDF8&width=650&lines=CSE+Undergrad+%40+SUST;Full-Stack+Web+Developer+(MERN+%26+Next.js);Backend+%26+AI+Integration+Enthusiast;Competitive+Programmer+(Pupil+%40+Codeforces)" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
 
 <!-- Coding & Engineering Profiles -->
 <p align="center">
   <a href="https://github.com/autanudatta" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@autanudatta-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-@autanudatta-0B132B?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub"/>
   </a>
   <a href="https://codeforces.com/profile/Hare-053" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-Hare--053-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
@@ -24,14 +27,13 @@
     <img src="https://img.shields.io/badge/vJudge-AD__2022331053-0D9488?style=for-the-badge" alt="vJudge"/>
   </a>
 </p>
-</div>
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
 ## Hi 👋, I'm Autanu Datta
-### Aspiring Software Engineer · Full-Stack Developer
+### Full-Stack Web Developer · CSE Undergraduate @ SUST
 
 </div>
 
@@ -44,31 +46,30 @@
 - 🧩 **Problem Solver:** Solved **1,000+ DSA problems** across **Codeforces (Pupil)**, **LeetCode**, and **vJudge**.
 - 💼 **Open to Opportunities:** Seeking **Full-Stack, Backend, or Frontend Web Development** internships and entry-level roles.
 - ♟️ **Off the Clock:** Active **[chess player](https://www.chess.com/member/autanu_53)** — sharpening strategic thinking and decision-making under pressure.
-- 🌐 Connect with me on **[LinkedIn](https://www.linkedin.com/in/autanudatta/)** or reach out via **[Email](mailto:autanu2025@gmail.com)**.
 
 <br/>
 
 <table align="center">
   <tr>
-    <td width="55%" valign="top">
+    <td width="53%" valign="top">
 
-### 🔭 Currently
+### 🔭 Currently Focus
 
-- 🤖 Exploring **AI/ML concepts** to build smarter, data-driven full-stack apps
-- 🐳 Learning **microservices**, **Docker** containerization & **CI/CD** pipelines
-- 💻 Building scalable **MERN & Next.js** web applications and REST APIs
-- 📚 Deepening **system design** for new-grad interviews
-- 🧩 Sharpening **DSA & system fundamentals** (**1,000+ problems** solved across Codeforces & LeetCode)
+- 🤖 Integrating **AI/ML workflows** into full-stack web apps
+- 🏗️ Deepening **backend architecture** & **system design**
+- 🐳 Containerizing services with **Docker** & **CI/CD** pipelines
+- 💻 Shipping scalable **MERN & Next.js** applications
+- 🧩 Practicing **DSA & algorithmic problem-solving**
 
   </td>
-  <td width="45%" valign="top">
+    <td width="47%" valign="top">
 
 ### 🌱 Open To
 
-- ✅ **Software Engineering internships** (Frontend / Backend / Full-Stack)
-- ✅ **Entry-level Software Engineer** roles
-- ✅ **Freelance** web & DevOps projects
-- ✅ **Hackathons** & collaborative AI / web development projects
+- ✅ **Full-Stack, Backend, or Frontend** Web Dev internships
+- ✅ **Entry-level Web / Software Developer** roles
+- ✅ **Freelance** web & API development projects
+- ✅ **Hackathons** & collaborative AI / web builds
 - ✅ **Open-source** contributions & tech networking
 
   </td>
@@ -77,7 +78,7 @@
 
 <br/>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🏆 Achievements
 
@@ -120,7 +121,7 @@
 
 <br/>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🚀 Featured Projects
 
@@ -186,7 +187,7 @@ A **maternal & child health platform** built at DNA Hack for Health 2026 — con
 
 <br/>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🛠️ Tech Stack
 
@@ -233,6 +234,8 @@ A **maternal & child health platform** built at DNA Hack for Health 2026 — con
 
 <br/>
 
+<img src="assets/divider.svg" width="100%" alt="" />
+
 <!-- GitHub Statistics & Analytics -->
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"> <b>GITHUB STATISTICS & ANALYSIS</b>
 
@@ -241,10 +244,10 @@ A **maternal & child health platform** built at DNA Hack for Health 2026 — con
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=autanudatta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Autanu Datta GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=autanudatta&show_icons=true&include_all_commits=true&count_private=true&bg_color=0B132B&title_color=38BDF8&text_color=E2E8F0&icon_color=2B90FF&border_color=1E293B&border_radius=10" alt="Autanu Datta GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=autanudatta&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=autanudatta&layout=compact&langs_count=8&bg_color=0B132B&title_color=38BDF8&text_color=E2E8F0&border_color=1E293B&border_radius=10" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -252,27 +255,26 @@ A **maternal & child health platform** built at DNA Hack for Health 2026 — con
 
 ### 🔥 GitHub Streak
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=autanudatta&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=autanudatta&background=0B132B&border=1E293B&stroke=1E293B&ring=38BDF8&fire=2B90FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&border_radius=10" alt="GitHub Streak" />
 </div>
 
 ### 📈 Contribution Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=autanudatta&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=autanudatta&bg_color=0B132B&color=94A3B8&line=2B90FF&point=38BDF8&area=true&area_color=1D4ED8&hide_border=true" alt="Contribution Activity Graph" width="100%" />
 </div>
 
-## 🐍 Contribution Snake
-
+### 🐍 Contribution Snake
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/autanudatta/autanudatta/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/autanudatta/autanudatta/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/autanudatta/autanudatta/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/autanudatta/autanudatta/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/autanudatta/autanudatta/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/autanudatta/autanudatta/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 <br/>
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <!-- Random Dev Quote -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> <b>RANDOM DEV QUOTE</b>
@@ -281,9 +283,7 @@ A **maternal & child health platform** built at DNA Hack for Health 2026 — con
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
----
-
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 📫 Connect With Me
 
@@ -306,7 +306,7 @@ A **maternal & child health platform** built at DNA Hack for Health 2026 — con
 
 <br/>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <!-- Footer & Profile Views -->
 <div align="center">
@@ -316,8 +316,8 @@ A **maternal & child health platform** built at DNA Hack for Health 2026 — con
     🚀 Open to Web Development Internships & Entry-Level Roles
   </sub>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=autanudatta&label=Profile%20Views&color=0D9488&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=autanudatta&label=Profile%20Views&color=2B90FF&style=flat-square" alt="Profile Views" />
 </div>
 
-<!-- Footer Wave (Keep this as the very last line of README.md) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B368C,50:157A8C,100:10B981&height=130§ion=footer" width="100%" alt="Footer Wave" />
+<!-- Animated Footer Wave (Matches your banner's deep-navy to cyan gradient) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1D4ED8,100:38BDF8&height=120§ion=footer" width="100%" alt="Footer Wave" />
