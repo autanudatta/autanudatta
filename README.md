@@ -32,8 +32,8 @@
 
 <div align="center">
 
-## Hi 👋, I'm Autanu Datta
-### Full-Stack Web Developer · CSE Undergraduate @ SUST
+### Hi 👋, I'm Autanu Datta
+<p><b>Full-Stack Web Developer · CSE Undergraduate @ SUST</b></p>
 
 </div>
 
