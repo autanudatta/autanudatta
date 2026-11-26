@@ -55,6 +55,74 @@
 
 <br/>
 
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🗳️ [E-VoteHub](https://evotehub.vercel.app)
+
+A **digital voting platform with online campaigning** — secure registration, ballot management, two voting modes, and real-time updates.
+
+**Highlights**
+
+- ✉️ Email-OTP registration with **JWT** in httpOnly cookies
+- 🗳️ Two voting modes: online (OTP) & on-campus (rotating code)
+- ⚡ Real-time event updates via **Socket.IO**
+- 🖼️ Campaign posts with images & video via **Cloudinary**
+- 👤 Public profiles with cover & avatar uploads
+
+**Stack**
+
+![Stack](https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb)
+<br/>
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+<br/>
+
+🔗 **Live:** [evotehub.vercel.app](https://evotehub.vercel.app) · 💻 **Repo:** [autanudatta/E-VoteHubFinalAD](https://github.com/autanudatta/E-VoteHubFinalAD)
+
+  </td>
+    <td width="50%" valign="top">
+
+### 🩺 [MaCare](https://front-end-amber-mu.vercel.app)
+
+A **maternal & child health platform** built at DNA Hack for Health 2026 — connects mothers, doctors, and midwives across rural Bangladesh.
+
+**Highlights**
+
+- 🤰 Pregnancy tracking with milestone reminders
+- 💬 Online consultations — no travel required
+- 💉 Vaccine reminders to keep immunization on track
+- 🚨 Emergency alerts when time matters most
+- 🇧🇩 Bengali health-education content
+- 👩‍⚕️ Three role-based dashboards: **Mother · Doctor · Midwife**
+
+**Stack**
+
+![Stack](https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb)
+<br/>
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-0F9D58?style=flat-square&logo=gmail&logoColor=white)
+
+<br/>
+
+🔗 **Live:** [front-end-amber-mu.vercel.app](https://front-end-amber-mu.vercel.app) · 💻 **Repo:** [autanudatta/MaCare_DNA_Health_Hackathon](https://github.com/autanudatta/MaCare_DNA_Health_Hackathon)
+
+  </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
 <!-- Socials & Coding Profiles -->
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="32"> <b>CONNECT & CODING PROFILES</b>
 
