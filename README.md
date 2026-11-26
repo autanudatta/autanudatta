@@ -5,21 +5,15 @@
 
 <!-- Title & Dynamic Typing Subtitle -->
 <div align="center">
-  <h1>Hi 👋, I'm Autanu Datta</h1> <br/>
+  <h1>Hi 👋, I'm Autanu Datta</h1> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Montserrat&weight=600&size=23&pause=1000&color=2B90FF&width=650&lines=CSE+Undergrad+%40+SUST;Passionate+Full-Stack+Developer;Aspiring+Software+Engineer;Competitive+Programmer+(Pupil+%40+Codeforces);AI%2FML+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Montserrat&weight=600&size=23&pause=1000&color=2B90FF&width=650&lines=CSE+Undergrad+%40+SUST;Passionate+Full-Stack+Developer;Aspiring+Software+Engineer;Competitive+Programmer+(Pupil+%40+Codeforces);AI%2FML+Enthusiast" alt="Typing SVG" /> <br/>
   </a> <br/>
 
-<!-- Contact pills -->
+<!-- Coding & Engineering Profiles -->
 <p align="center">
-  <a href="mailto:autanu2025@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-autanu2025%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
   <a href="https://github.com/autanudatta" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-@autanudatta-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/autanudatta/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Autanu%20Datta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://codeforces.com/profile/Hare-053" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-Hare--053-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
@@ -29,12 +23,6 @@
   </a>
   <a href="https://vjudge.net/user/AD_2022331053" target="_blank">
     <img src="https://img.shields.io/badge/vJudge-AD__2022331053-0D9488?style=for-the-badge" alt="vJudge"/>
-  </a>
-  <a href="https://www.chess.com/member/autanu_53" target="_blank">
-    <img src="https://img.shields.io/badge/Chess.com-autanu__53-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Chess.com"/>
-  </a>
-  <a href="tel:+8801560038282" target="_blank">
-    <img src="https://img.shields.io/badge/Phone-+880%201560--038282-22C55E?style=for-the-badge&logo=telephone&logoColor=white" alt="Phone"/>
   </a>
 </p>
 </div>
@@ -289,10 +277,26 @@ A **maternal & child health platform** built at DNA Hack for Health 2026 — con
 
 ---
 
-<!-- Profile Views Counter -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=autanudatta&label=Profile%20Views&color=2B90FF&style=flat-square" alt="Profile Views" />
-</p>
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/autanudatta/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0m0tLjUgMTUuNXYtNS4zYTMuMjYgMy4yNiAwIDAgMC0zLjI2LTMuMjZjLS44NSAwLTEuODQuNTItMi4yOCAxLjMydjEuMTNoLTIuNzl2OC4zN2gyLjc5di00LjkzYyAwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43OU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMxLjY4IDEuNjggMCAwIDAtMS42OC0xLjY4YTEuNjggMS42OCAwIDAgMC0xLjY4IDEuNjhjMCAuOTMuNzUgMS42OCAxLjY4IDEuNjhtMS4zOSA5Ljk0di04LjM3SDUuNXY4LjM3aDIuNzdaIi8+PC9zdmc+" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:autanu2025@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.facebook.com/autanu.datta" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.chess.com/member/autanu_53" target="_blank">
+    <img src="https://img.shields.io/badge/Chess.com-Challenge%20Me-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Chess.com"/>
+  </a>
+
+</div>
 
 <br/>
 
