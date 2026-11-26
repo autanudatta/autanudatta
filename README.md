@@ -191,20 +191,48 @@ A **maternal & child health platform** built at DNA Hack for Health 2026 — con
 
 ---
 
-<!-- Technology Stack -->
-## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="32"> <b>TECHNOLOGY STACK</b>
+## 🛠️ Tech Stack
 
-### Languages
-[![Languages](https://skillicons.dev/icons?i=cpp,java,py,js,html,css)](https://github.com/autanudatta)
-
-### Full-Stack Web Development (MERN)
-[![MERN Stack](https://skillicons.dev/icons?i=react,nodejs,express,mongodb)](https://github.com/autanudatta)
-
-### Databases
-[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://github.com/autanudatta)
-
-### Tools & DevOps
-[![Tools & DevOps](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux)](https://github.com/autanudatta)
+<table align="center">
+  <tr>
+    <td align="center" width="200"><b>🧠 Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp,c,java,py,js,ts&theme=dark" alt="Languages"/></td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><b>🎨 Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=dark" alt="Frontend"/></td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><b>⚙️ Backend & Realtime</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" alt="Backend"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+      <img src="https://img.shields.io/badge/REST%20API-0284C7?style=flat-square&logo=fastapi&logoColor=white" alt="REST API"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><b>🗄️ Databases & Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,vercel&theme=dark" alt="Databases"/></td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><b>🐳 DevOps & OS</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,linux,githubactions&theme=dark" alt="DevOps"/></td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><b>🤖 AI / ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><b>🧰 Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools"/></td>
+  </tr>
+</table>
 
 <br/>
 
