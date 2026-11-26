@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="./github_banner.png" alt="Autanu Datta Banner" width="100%" />
+  <img src="./github_banner.jpeg" alt="Autanu Datta Banner" width="100%" />
 </div>
 
 <!-- Title & Dynamic Typing Subtitle -->
