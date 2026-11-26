@@ -7,7 +7,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Autanu Datta</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=23&pause=1000&color=2B90FF¢er=true&vCenter=true&width=650&lines=CSE+Undergrad+%40+SUST;Passionate+Full-Stack+Developer;Aspiring+Software+Engineer;Competitive+Programmer+(Pupil+%40+Codeforces);AI%2FML+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Montserrat&weight=600&size=23&pause=1000&color=2B90FF&width=650&lines=CSE+Undergrad+%40+SUST;Passionate+Full-Stack+Developer;Aspiring+Software+Engineer;Competitive+Programmer+(Pupil+%40+Codeforces);AI%2FML+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
