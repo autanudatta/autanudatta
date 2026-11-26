@@ -35,7 +35,7 @@
   <a href="tel:+8801560038282" target="_blank">
     <img src="https://img.shields.io/badge/Phone-+880%201560--038282-22C55E?style=for-the-badge&logo=telephone&logoColor=white" alt="Phone"/>
   </a>
-</p>
+</p> <br/>
 </div>
 
 <br/>
@@ -292,3 +292,21 @@ A **maternal & child health platform** built at DNA Hack for Health 2026 — con
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=autanudatta&label=Profile%20Views&color=2B90FF&style=flat-square" alt="Profile Views" />
 </p>
+
+<br/>
+
+---
+
+<!-- Footer & Profile Views -->
+<div align="center">
+  <sub>
+    Crafted with 💻 & ☕ by <a href="https://github.com/autanudatta"><b>Autanu Datta</b></a> ·
+    Last updated: <code>November 2026</code> ·
+    🚀 Open to SWE Internships & Entry-Level Roles
+  </sub>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=autanudatta&label=Profile%20Views&color=0D9488&style=flat-square" alt="Profile Views" />
+</div>
+
+<!-- Footer Wave (Keep this as the very last line of README.md) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B368C,50:157A8C,100:10B981&height=130§ion=footer" width="100%" alt="Footer Wave" />
